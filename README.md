@@ -33,6 +33,6 @@
 </p>
 🎨 Tools & Software
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,xd,figma,blender" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,xd,figma" />
 </p>
 🔥Hope you like the world of creativity !! 
