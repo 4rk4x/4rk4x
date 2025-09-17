@@ -25,10 +25,10 @@
 ## 🔗 Connect With Me
 <p align="center">
   <a href="www.linkedin.com/in/arkadip-maiti-cse" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="assets/linkedin.svg" />
   </a>
-  <a href="https://github.com/4rk4x" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://instagram.com/trynafind.arka" target="_blank">
+    <img src="assets/instagram.svg" />
   </a>
 </p>
 🎨 Tools & Software
