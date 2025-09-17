@@ -9,7 +9,7 @@
 </h1>
 <h3 align="center" style="color:#00ff7f">An artist</h3>
 <p align="center">
-  <img src="assets/boy_with_guiter.jpg"
+  <img src="assets/boy_with_guiter.png"
        alt="Graphics Design Image"
        width="400"
        height="300" />
