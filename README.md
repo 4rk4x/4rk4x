@@ -24,10 +24,10 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/arkadip-maiti-cse" target="_blank">
+  <a href="https://www.linkedin.com/in/arkadip-maiti-cse" target="_blank">
     <img src="assets/linkedin.svg" />
   </a>
-  <a href="https://instagram.com/trynafind.arka" target="_blank">
+  <a href="https://instagram.com/trynafind_arka" target="_blank">
     <img src="assets/instagram.svg" />
   </a>
 </p>
